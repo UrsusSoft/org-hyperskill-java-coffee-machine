@@ -1,0 +1,7 @@
+# Project exclude paths
+/.gradle/
+/Coffee Machine (Java)/task/build/
+/Coffee Machine (Java)/task/out/
+/Coffee Machine (Java)/task/out/production/classes/
+/Topics/Relational operators/Check the value/out/
+/Topics/Relational operators/Check the value/out/production/classes/
